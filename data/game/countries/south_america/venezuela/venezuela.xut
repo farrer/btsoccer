@@ -1,0 +1,9 @@
+name = Venezuela
+symbol = countries/south_america/venezuela/venezuela_symbol.png 
+colorA = red
+colorB = blue
+diskMaterial = venezuela_disk
+goalKeeperMaterial = venezuela_gkeeper
+numberPositon = 71 189
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

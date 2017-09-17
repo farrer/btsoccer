@@ -1,0 +1,9 @@
+name = France
+symbol = countries/europe/france/france_symbol.png 
+colorA = blue
+colorB = white
+diskMaterial = france_disk
+goalKeeperMaterial = france_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

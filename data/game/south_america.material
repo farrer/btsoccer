@@ -1,0 +1,1009 @@
+material argentina_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/argentina/argentina_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material argentina_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/argentina/argentina_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material argentina_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/argentina/argentina_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material argentina_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/argentina/argentina_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material bolivia_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/bolivia/bolivia_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material bolivia_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/bolivia/bolivia_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material bolivia_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/bolivia/bolivia_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material bolivia_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/bolivia/bolivia_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material brasil_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/brasil/brasil_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material brasil_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/brasil/brasil_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material brasil_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/brasil/brasil_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material brasil_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/brasil/brasil_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material chile_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/chile/chile_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material chile_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/chile/chile_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material chile_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/chile/chile_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material chile_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/chile/chile_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material colombia_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/colombia/colombia_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material colombia_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/colombia/colombia_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material colombia_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/colombia/colombia_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material colombia_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/colombia/colombia_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material ecuador_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/ecuador/ecuador_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material ecuador_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/ecuador/ecuador_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material ecuador_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/ecuador/ecuador_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material ecuador_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/ecuador/ecuador_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material guyana_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/guyana/guyana_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material guyana_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/guyana/guyana_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material guyana_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/guyana/guyana_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material guyana_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/guyana/guyana_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material paraguay_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/paraguay/paraguay_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material paraguay_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/paraguay/paraguay_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material paraguay_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/paraguay/paraguay_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material paraguay_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/paraguay/paraguay_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material peru_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/peru/peru_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material peru_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/peru/peru_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material peru_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/peru/peru_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material peru_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/peru/peru_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material suriname_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/suriname/suriname_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material suriname_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/suriname/suriname_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material suriname_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/suriname/suriname_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material suriname_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/suriname/suriname_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material uruguay_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/uruguay/uruguay_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material uruguay_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/uruguay/uruguay_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material uruguay_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/uruguay/uruguay_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material uruguay_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/uruguay/uruguay_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material venezuela_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/venezuela/venezuela_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material venezuela_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/venezuela/venezuela_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material venezuela_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/venezuela/venezuela_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material venezuela_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/south_america/venezuela/venezuela_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+

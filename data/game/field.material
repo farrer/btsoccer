@@ -1,0 +1,42 @@
+material field
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.300000 0.300000 0.300000 1.000000
+			texture_unit
+			{
+				texture field/field1.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+         rtshader_system
+         {
+			}
+
+		}
+	}
+}
+
+material field_debug
+{
+   technique
+   {
+      pass
+      {
+         diffuse vertexcolour
+         specular vertexcolour
+         ambient vertexcolour
+         lighting on
+         rtshader_system
+         {
+			}
+      }
+   }
+}
+

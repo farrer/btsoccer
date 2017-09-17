@@ -1,0 +1,9 @@
+name = Brasil
+symbol = countries/south_america/brasil/brasil_symbol.png 
+colorA = yellow
+colorB = blue
+diskMaterial = brasil_disk
+goalKeeperMaterial = brasil_gkeeper
+numberPositon = 69 180
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,9 @@
+name = Ghana
+symbol = countries/africa/ghana/ghana_symbol.png 
+diskMaterial = ghana_disk
+colorA = white
+colorB = red
+goalKeeperMaterial = ghana_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,9 @@
+name = Japan
+symbol = countries/asia/japan/japan_symbol.png 
+diskMaterial = japan_disk
+colorA = blue
+colorB = green
+goalKeeperMaterial = japan_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

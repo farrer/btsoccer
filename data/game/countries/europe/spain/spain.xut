@@ -1,0 +1,9 @@
+name = Spain
+symbol = countries/europe/spain/spain_symbol.png 
+colorA = red
+colorB = blue
+diskMaterial = spain_disk
+goalKeeperMaterial = spain_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="hungary_disk.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="431.2462"
+     inkscape:cy="728.24556"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="611"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(1.3373134,0,0,1.5186441,248.01175,-182.70325)"
+       d="m 365.71429,285.21933 a 95.714287,84.285713 0 1 1 -191.42858,0 95.714287,84.285713 0 1 1 191.42858,0 z"
+       sodipodi:ry="84.285713"
+       sodipodi:rx="95.714287"
+       sodipodi:cy="285.21933"
+       sodipodi:cx="270"
+       id="path3778"
+       style="fill:#005500;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/farrer/projetos/dnteam/btsoccer/data/teams/countries/europe/hungary/hungary_disk2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#005500;stroke:none"
+       id="path2985"
+       sodipodi:cx="270"
+       sodipodi:cy="285.21933"
+       sodipodi:rx="95.714287"
+       sodipodi:ry="84.285713"
+       d="m 365.71429,285.21933 a 95.714287,84.285713 0 1 1 -191.42858,0 95.714287,84.285713 0 1 1 191.42858,0 z"
+       transform="matrix(1.3373134,0,0,1.5186441,-59.074628,-190.78447)"
+       inkscape:export-filename="/Users/farrer/projetos/dnteam/btsoccer/data/teams/countries/europe/hungary/hungary_disk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.1283582,0,0,1.2813559,-2.6567136,-123.10528)"
+       d="m 365.71429,285.21933 a 95.714287,84.285713 0 1 1 -191.42858,0 95.714287,84.285713 0 1 1 191.42858,0 z"
+       sodipodi:ry="84.285713"
+       sodipodi:rx="95.714287"
+       sodipodi:cy="285.21933"
+       sodipodi:cx="270"
+       id="path3755"
+       style="fill:#ffffff;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#aa0000;stroke:none"
+       id="path3757"
+       sodipodi:cx="270"
+       sodipodi:cy="285.21933"
+       sodipodi:rx="95.714287"
+       sodipodi:ry="84.285713"
+       d="m 365.71429,285.21933 a 95.714287,84.285713 0 1 1 -191.42858,0 95.714287,84.285713 0 1 1 191.42858,0 z"
+       transform="matrix(1.0238806,0,0,1.1627119,25.552239,-89.265728)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:none"
+       id="path3780"
+       sodipodi:cx="270"
+       sodipodi:cy="285.21933"
+       sodipodi:rx="95.714287"
+       sodipodi:ry="84.285713"
+       d="m 365.71429,285.21933 a 95.714287,84.285713 0 1 1 -191.42858,0 95.714287,84.285713 0 1 1 191.42858,0 z"
+       transform="matrix(1.180597,0,0,1.340678,290.32481,-131.9441)" />
+    <path
+       style="fill:#aa0000;stroke:none"
+       d="m 567.70573,145.4903 0,210.62642 c 8.65788,2.65183 18.05169,5.73296 21.2132,5.17857 l 0,-223.34524 c -15.88869,4.14631 -17.681,5.68218 -21.2132,7.54025 z"
+       id="path3788"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <image
+       y="164.72748"
+       x="297.35547"
+       id="image3863"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAl1JREFU eJzt2DFRQ1EURdF85oEDTCACGZTIokICw0wkIABDIfAQkeIWey0Fp9rFOZ0AAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgdsf30/Oe HgHMuJseAMwRAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgT AAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgT AAgTAAgTAAgTAAhb+3KZ3gAMWY+vL9MbgCHH3+VnT48AZhx7bwGAKCcghAkAhAkAhAkAhAkAhAkA hAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkA hAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhK3r73V6AzBkvX2+T28A hqyPr/P0BmDIelj30xuAIU5ACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMA CBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMA CBMACBMACBMACBMACBMACBMACBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG7yD2cfFeqFqPXqAAAAAElFTkSuQmCC "
+       height="74.172539"
+       width="74.172539" />
+    <image
+       width="74.172539"
+       height="74.172539"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAl1JREFU eJzt2DFRQ1EURdF85oEDTCACGZTIokICw0wkIABDIfAQkeIWey0Fp9rFOZ0AAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgdsf30/Oe HgHMuJseAMwRAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgT AAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgT AAgTAAgTAAgTAAhb+3KZ3gAMWY+vL9MbgCHH3+VnT48AZhx7bwGAKCcghAkAhAkAhAkAhAkAhAkA hAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkA hAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhAkAhK3r73V6AzBkvX2+T28A hqyPr/P0BmDIelj30xuAIU5ACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMA CBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMACBMA CBMACBMACBMACBMACBMACBMACBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG7yD2cfFeqFqPXqAAAAAElFTkSuQmCC "
+       id="image3866"
+       x="615.47229"
+       y="161.69702" />
+  </g>
+</svg>

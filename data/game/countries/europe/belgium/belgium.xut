@@ -1,0 +1,9 @@
+name = Belgium
+symbol = countries/europe/belgium/belgium_symbol.png 
+diskMaterial = belgium_disk
+colorA = red
+colorB = black
+goalKeeperMaterial = belgium_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

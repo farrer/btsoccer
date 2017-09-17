@@ -1,0 +1,9 @@
+name = Italy
+symbol = countries/europe/italy/italy_symbol.png 
+diskMaterial = italy_disk
+colorA = blue
+colorB = white
+goalKeeperMaterial = italy_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

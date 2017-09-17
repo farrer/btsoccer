@@ -1,0 +1,9 @@
+name = Guyana
+symbol = countries/south_america/guyana/guyana_symbol.png 
+colorA = yellow
+colorB = green
+diskMaterial = guyana_disk
+goalKeeperMaterial = guyana_gkeeper
+numberPositon = 86 184
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

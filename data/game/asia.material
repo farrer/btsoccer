@@ -1,0 +1,168 @@
+material china_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/china/china_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material china_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/china/china_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material china_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/china/china_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material china_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/china/china_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material japan_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/japan/japan_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material japan_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/japan/japan_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material japan_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/japan/japan_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material japan_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/asia/japan/japan_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+

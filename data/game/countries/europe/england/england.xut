@@ -1,0 +1,9 @@
+name = England
+symbol = countries/europe/england/england_symbol.png 
+colorA = white
+colorB = red
+diskMaterial = england_disk
+goalKeeperMaterial = england_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

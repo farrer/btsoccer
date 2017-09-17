@@ -1,0 +1,336 @@
+material ghana_disk2
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.300000 0.300000 0.300000 1.000000
+			texture_unit
+			{
+				texture countries/africa/ghana/ghana_disk2.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ghana_disk
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ghana/ghana_disk.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ghana_gkeeper2
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.800000 0.800000 0.800000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ghana/ghana_gkeeper2.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ghana_gkeeper
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.800000 0.800000 0.800000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ghana/ghana_gkeeper.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ivorycoast_disk2
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ivorycoast/ivorycoast_disk2.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ivorycoast_disk
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.640000 0.640000 0.640000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ivorycoast/ivorycoast_disk.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ivorycoast_gkeeper2
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.800000 0.800000 0.800000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ivorycoast/ivorycoast_gkeeper2.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material ivorycoast_gkeeper
+{
+	receive_shadows off
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.800000 0.800000 0.800000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.3 0.3 0.3 1.000000
+			texture_unit
+			{
+				texture countries/africa/ivorycoast/ivorycoast_gkeeper.png
+				tex_address_mode wrap
+				filtering trilinear
+			}
+		}
+	}
+}
+
+material mozambique_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.300000 0.300000 0.300000 1.000000
+         texture_unit
+         {
+            texture countries/africa/mozambique/mozambique_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material mozambique_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.300000 0.300000 0.300000 1.000000
+         texture_unit
+         {
+            texture countries/africa/mozambique/mozambique_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material mozambique_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.300000 0.300000 0.300000 1.000000
+         texture_unit
+         {
+            texture countries/africa/mozambique/mozambique_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material mozambique_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/africa/mozambique/mozambique_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material nigeria_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/africa/nigeria/nigeria_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material nigeria_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/africa/nigeria/nigeria_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material nigeria_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/africa/nigeria/nigeria_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material nigeria_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/africa/nigeria/nigeria_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+

@@ -1,0 +1,9 @@
+name = Croatia
+symbol = countries/europe/croatia/croatia_symbol.png 
+diskMaterial = croatia_disk
+colorA = white
+colorB = blue
+goalKeeperMaterial = croatia_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

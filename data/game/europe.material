@@ -1,0 +1,1008 @@
+material belgium_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/belgium/belgium_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material belgium_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/belgium/belgium_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material belgium_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/belgium/belgium_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material belgium_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/belgium/belgium_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material croatia_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/croatia/croatia_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material croatia_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/croatia/croatia_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material croatia_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/croatia/croatia_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material croatia_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/croatia/croatia_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material england_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/england/england_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material england_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/england/england_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material england_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/england/england_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material england_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/england/england_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material france_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/france/france_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material france_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/france/france_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material france_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/france/france_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material france_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/france/france_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material germany_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/germany/germany_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material germany_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/germany/germany_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material germany_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/germany/germany_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material germany_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/germany/germany_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material hungary_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/hungary/hungary_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material hungary_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/hungary/hungary_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material hungary_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/hungary/hungary_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material hungary_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/hungary/hungary_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material italy_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/italy/italy_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material italy_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/italy/italy_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material italy_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/italy/italy_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material italy_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/italy/italy_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material netherlands_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/netherlands/netherlands_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material netherlands_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/netherlands/netherlands_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material netherlands_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/netherlands/netherlands_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material netherlands_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/netherlands/netherlands_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material portugal_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/portugal/portugal_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material portugal_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/portugal/portugal_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material portugal_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/portugal/portugal_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material portugal_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/portugal/portugal_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material russia_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/russia/russia_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material russia_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/russia/russia_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material russia_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/russia/russia_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material russia_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/russia/russia_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material spain_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/spain/spain_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material spain_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/spain/spain_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material spain_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/spain/spain_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material spain_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/spain/spain_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material switzerland_disk
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/switzerland/switzerland_disk.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material switzerland_disk2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.640000 0.640000 0.640000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/switzerland/switzerland_disk2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material switzerland_gkeeper
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/switzerland/switzerland_gkeeper.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+
+material switzerland_gkeeper2
+{
+   receive_shadows off
+   technique
+   {
+      pass
+      {
+         ambient 0.500000 0.500000 0.500000 1.000000
+         diffuse 0.800000 0.800000 0.800000 1.000000
+         specular 0.500000 0.500000 0.500000 1.000000 12.500000
+         emissive 0.200000 0.200000 0.200000 1.000000
+         texture_unit
+         {
+            texture countries/europe/switzerland/switzerland_gkeeper2.png
+            tex_address_mode wrap
+            filtering trilinear
+         }
+      }
+   }
+}
+

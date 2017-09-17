@@ -1,0 +1,9 @@
+name = Russia
+symbol = countries/europe/russia/russia_symbol.png 
+diskMaterial = russia_disk
+colorA = red
+colorB = white
+goalKeeperMaterial = russia_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

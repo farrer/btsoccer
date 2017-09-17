@@ -1,0 +1,9 @@
+name = Ivory Coast
+symbol = countries/africa/ivorycoast/ivorycoast_symbol.png 
+diskMaterial = ivorycoast_disk
+colorA = red
+colorB = green
+goalKeeperMaterial = ivorycoast_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

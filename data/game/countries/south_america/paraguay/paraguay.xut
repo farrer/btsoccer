@@ -1,0 +1,9 @@
+name = Paraguay
+symbol = countries/south_america/paraguay/paraguay_symbol.png 
+colorA = red
+colorB = white
+diskMaterial = paraguay_disk
+goalKeeperMaterial = paraguay_gkeeper
+numberPositon = 69 180
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

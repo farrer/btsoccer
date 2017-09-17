@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="swiss_disk.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="257.7286"
+     inkscape:cy="814.43483"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1058"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(1.0795181,0,0,1.1341772,333.72289,-56.532116)"
+       d="m 314.28571,313.79074 a 118.57143,112.85714 0 1 1 -237.142857,0 118.57143,112.85714 0 1 1 237.142857,0 z"
+       sodipodi:ry="112.85714"
+       sodipodi:rx="118.57143"
+       sodipodi:cy="313.79074"
+       sodipodi:cx="195.71428"
+       id="path2987"
+       style="fill:#d40000;fill-opacity:0.94117647000000004;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/farrer/projetos/dnteam/btsoccer/data/teams/countries/europe/swiss/switzerland_disk2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:0.94117647000000004;stroke:none"
+       id="path2985"
+       sodipodi:cx="195.71428"
+       sodipodi:cy="313.79074"
+       sodipodi:rx="118.57143"
+       sodipodi:ry="112.85714"
+       d="m 314.28571,313.79074 a 118.57143,112.85714 0 1 1 -237.142857,0 118.57143,112.85714 0 1 1 237.142857,0 z"
+       transform="matrix(1.0795181,0,0,1.1341772,-6.2771059,-56.532116)"
+       inkscape:export-filename="/Users/farrer/projetos/dnteam/btsoccer/data/teams/countries/europe/swiss/switzerland_disk.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.91084339,0,0,0.95696205,26.734942,-0.92364779)"
+       d="m 314.28571,313.79074 a 118.57143,112.85714 0 1 1 -237.142857,0 118.57143,112.85714 0 1 1 237.142857,0 z"
+       sodipodi:ry="112.85714"
+       sodipodi:rx="118.57143"
+       sodipodi:cy="313.79074"
+       sodipodi:cx="195.71428"
+       id="path2989"
+       style="fill:#d40000;fill-opacity:0.94117647000000004;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:0.94117647000000004;stroke:none"
+       id="path2991"
+       sodipodi:cx="195.71428"
+       sodipodi:cy="313.79074"
+       sodipodi:rx="118.57143"
+       sodipodi:ry="112.85714"
+       d="m 314.28571,313.79074 a 118.57143,112.85714 0 1 1 -237.142857,0 118.57143,112.85714 0 1 1 237.142857,0 z"
+       transform="matrix(0.91084339,0,0,0.95696205,366.73494,-0.92364779)" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 144.45181,212.42034 c 3.48718,23.96832 6.35836,48.32864 24.24366,63.13453 -34.34161,17.59572 -37.62206,54.60467 -52.52793,84.34773 l 12.62691,-65.65991 z"
+       id="path3012"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3784"
+       d="m 266.4112,212.42034 c -3.48718,23.96832 -6.35836,48.32864 -24.24366,63.13453 34.34161,17.59572 37.62206,54.60467 52.52793,84.34773 l -12.62691,-65.65991 z"
+       style="fill:#ffffff;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3786"
+       d="m 484.45181,212.42034 c 3.48718,23.96832 6.35836,48.32864 24.24366,63.13453 -34.34161,17.59572 -37.62206,54.60467 -52.52793,84.34773 l 12.62691,-65.65991 z"
+       style="fill:#d40000;stroke:none" />
+    <path
+       style="fill:#d40000;stroke:none"
+       d="m 606.4112,212.42034 c -3.48718,23.96832 -6.35836,48.32864 -24.24366,63.13453 34.34161,17.59572 37.62206,54.60467 52.52793,84.34773 l -12.62691,-65.65991 z"
+       id="path3788"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.94117647;stroke:none"
+       id="rect3886"
+       width="52.857143"
+       height="51.42857"
+       x="178"
+       y="301.64789" />
+    <image
+       y="305.33661"
+       x="183.14731"
+       id="image3881"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAABDhJREFU
+eJzt17FuG0cARdHhQk2yKgW4M6A6hv//OwK5di1ApQh33BRq0iiwxdDD5T2n2vINuHuJOXz76/M2
+gKRl9gBgHgGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGA
+MAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGA
+MAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAsLvZA/gvh3E6vo5xmL3jg7YxlvX+7YGrJABX7HR8
+HV++v8yecZanx4exrOvsGbzDFeCa7fWf/99u4Qw3TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAg7G72gPMcxun4OsZh9o7LOB2Psyec7RbO8K5tjGW9f3vYqV0H4HR8
+HV++v8yecWHb2G/htvH1+cfsERf19PgwlnWdPePD9n0F2Ot38Uv2fMg9b/9JOz/ivgMAnEUAIEwA
+IEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwA
+IEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwA
+IEwAIEwAIEwAIEwAIGzfAdhmD/gd9nzIPW//STs/4t3sAedY1vvx9PgwxmH2kss4HY/j6/OP2TPO
+cBh/f/pjLOs6e8hlbG/v4J4rsOsAjLHd7st1I5Z1Hcuft/wb7ffjH2PvVwDgLAIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQJwzbbZA/4Ht3CGG3Y3ewDvW9b78fT4MMZh
+9pIP2t7OoALXSwCu2jaWdZ094kw+/mvmCgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh
+AgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh
+AgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh/wC5DjrYMZ0K
+rwAAAABJRU5ErkJggg==
+"
+       height="42.857815"
+       width="42.857815" />
+    <image
+       width="42.857815"
+       height="42.857815"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAABDhJREFU
+eJzt17FuG0cARdHhQk2yKgW4M6A6hv//OwK5di1ApQh33BRq0iiwxdDD5T2n2vINuHuJOXz76/M2
+gKRl9gBgHgGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGA
+MAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGA
+MAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAMAGAsLvZA/gvh3E6vo5xmL3jg7YxlvX+7YGrJABX7HR8
+HV++v8yecZanx4exrOvsGbzDFeCa7fWf/99u4Qw3TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAgTAAg
+TAAgTAAgTAAgTAAgTAAgTAAg7G72gPMcxun4OsZh9o7LOB2Psyec7RbO8K5tjGW9f3vYqV0H4HR8
+HV++v8yecWHb2G/htvH1+cfsERf19PgwlnWdPePD9n0F2Ot38Uv2fMg9b/9JOz/ivgMAnEUAIEwA
+IEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwA
+IEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwAIEwA
+IEwAIEwAIEwAIEwAIGzfAdhmD/gd9nzIPW//STs/4t3sAedY1vvx9PgwxmH2kss4HY/j6/OP2TPO
+cBh/f/pjLOs6e8hlbG/v4J4rsOsAjLHd7st1I5Z1Hcuft/wb7ffjH2PvVwDgLAIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIA
+YQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQIAYQJwzbbZA/4Ht3CGG3Y3ewDvW9b78fT4MMZh
+9pIP2t7OoALXSwCu2jaWdZ094kw+/mvmCgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh
+AgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh
+AgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBhAgBh/wC5DjrYMZ0K
+rwAAAABJRU5ErkJggg==
+"
+       id="image3884"
+       x="525.14734"
+       y="307.33661" />
+  </g>
+</svg>

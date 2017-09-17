@@ -1,0 +1,9 @@
+name = Portugal
+symbol = countries/europe/portugal/portugal_symbol.png 
+colorA = red
+colorB = white
+diskMaterial = portugal_disk
+goalKeeperMaterial = portugal_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

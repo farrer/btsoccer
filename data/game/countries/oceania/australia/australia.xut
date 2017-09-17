@@ -1,0 +1,9 @@
+name = Australia
+symbol = countries/oceania/australia/australia_symbol.png 
+diskMaterial = australia_disk
+colorA = yellow
+colorB = green
+goalKeeperMaterial = australia_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

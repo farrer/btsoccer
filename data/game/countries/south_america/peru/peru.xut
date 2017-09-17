@@ -1,0 +1,9 @@
+name = Peru
+symbol = countries/south_america/peru/peru_symbol.png 
+colorA = white
+colorB = red
+diskMaterial = peru_disk
+goalKeeperMaterial = peru_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

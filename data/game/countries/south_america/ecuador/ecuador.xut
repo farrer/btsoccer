@@ -1,0 +1,9 @@
+name = Ecuador
+symbol = countries/south_america/ecuador/ecuador_symbol.png 
+colorA = yellow
+colorB = blue
+diskMaterial = ecuador_disk
+goalKeeperMaterial = ecuador_gkeeper
+numberPositon = 86 184
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,9 @@
+name = USA
+symbol = countries/north_central_america/usa/usa_symbol.png 
+colorA = red
+colorB = white
+diskMaterial = usa_disk
+goalKeeperMaterial = usa_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

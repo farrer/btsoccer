@@ -1,0 +1,9 @@
+name = Netherlands
+symbol = countries/europe/netherlands/netherlands_symbol.png 
+colorA = red
+colorB = black
+diskMaterial = netherlands_disk
+goalKeeperMaterial = netherlands_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,9 @@
+name = Colombia
+symbol = countries/south_america/colombia/colombia_symbol.png 
+colorA = yellow
+colorB = red
+diskMaterial = colombia_disk
+goalKeeperMaterial = colombia_gkeeper
+numberPositon = 71 189
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

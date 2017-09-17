@@ -1,0 +1,9 @@
+name = China
+symbol = countries/asia/china/china_symbol.png 
+diskMaterial = china_disk
+colorA = red
+colorB = white
+goalKeeperMaterial = china_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

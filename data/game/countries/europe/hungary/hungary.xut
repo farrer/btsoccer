@@ -1,0 +1,9 @@
+name = Hungary
+symbol = countries/europe/hungary/hungary_symbol.png 
+colorA = red
+colorB = white
+diskMaterial = hungary_disk
+goalKeeperMaterial = hungary_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

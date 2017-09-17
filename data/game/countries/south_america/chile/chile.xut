@@ -1,0 +1,9 @@
+name = Chile
+symbol = countries/south_america/chile/chile_symbol.png 
+colorA = red
+colorB = white
+diskMaterial = chile_disk
+goalKeeperMaterial = chile_gkeeper
+numberPositon = 71 189
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

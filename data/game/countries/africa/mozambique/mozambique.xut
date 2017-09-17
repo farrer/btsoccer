@@ -1,0 +1,9 @@
+name = Mozambique
+symbol = countries/africa/mozambique/mozambique_symbol.png 
+diskMaterial = mozambique_disk
+colorA = red
+colorB = yellow
+goalKeeperMaterial = mozambique_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

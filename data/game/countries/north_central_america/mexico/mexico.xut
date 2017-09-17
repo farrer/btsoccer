@@ -1,0 +1,9 @@
+name = Mexico
+symbol = countries/north_central_america/mexico/mexico_symbol.png 
+colorA = green
+colorB = black
+diskMaterial = mexico_disk
+goalKeeperMaterial = mexico_gkeeper
+numberPositon = 69 180
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

@@ -1,0 +1,9 @@
+name = Switzerland
+symbol = countries/europe/switzerland/switzerland_symbol.png 
+diskMaterial = switzerland_disk
+colorA = red
+colorB = white
+goalKeeperMaterial = switzerland_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

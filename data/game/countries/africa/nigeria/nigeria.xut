@@ -1,0 +1,9 @@
+name = Nigeria
+symbol = countries/africa/nigeria/nigeria_symbol.png 
+diskMaterial = nigeria_disk
+colorA = green
+colorB = white
+goalKeeperMaterial = nigeria_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

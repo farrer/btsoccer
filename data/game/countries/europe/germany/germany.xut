@@ -1,0 +1,9 @@
+name = Germany
+symbol = countries/europe/germany/germany_symbol.png 
+colorA = white
+colorB = black
+diskMaterial = germany_disk
+goalKeeperMaterial = germany_gkeeper
+numberPositon = 195 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh

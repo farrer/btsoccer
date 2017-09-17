@@ -1,0 +1,9 @@
+name = Suriname
+symbol = countries/south_america/suriname/suriname_symbol.png 
+colorA = white
+colorB = green
+diskMaterial = suriname_disk
+goalKeeperMaterial = suriname_gkeeper
+numberPositon = 183 182
+diskModel = disk/disk.mesh
+goalKeeperModel = goalkeeper/goalkeeper.mesh
