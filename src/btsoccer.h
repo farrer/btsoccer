@@ -83,13 +83,13 @@ namespace BtSoccer
    
 #define DISK_MASS             (0.002f * BTSOCCER_MASS_FORCE_MULTIPLIER)
 #define DISK_RESTITUTION      0.8f
-#define DISK_FRICTION         0.7f
+#define DISK_FRICTION         0.8f
 #define DISK_ROLLING_FRICTION 0.0f
 #define DISK_ANGULAR_DAMPING  1.0f
    
 #define GKEEPER_MASS          (0.01f * BTSOCCER_MASS_FORCE_MULTIPLIER)
 
-#define BALL_MASS             (0.0005f * BTSOCCER_MASS_FORCE_MULTIPLIER)
+#define BALL_MASS             (0.0008f * BTSOCCER_MASS_FORCE_MULTIPLIER)
 #define BALL_RESTITUTION          0.8f
 #define BALL_FRICTION             0.8f
 /*! Rolling frictions is a mess in bullet.
