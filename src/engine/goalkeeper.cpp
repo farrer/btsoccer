@@ -49,8 +49,10 @@ GoalKeeper::GoalKeeper(Ogre::String name)
            :TeamPlayer(FieldObject::TYPE_GOAL_KEEPER, name)
 {
    positionDone = false;
-   size = 20;
-   halfSize = 10;
+   halfSize[0] = 10;
+   halfSize[1] = 10;
+   halfSize[2] = 10;
+   size = halfSize * 2;
 }
 
 /***********************************************************************

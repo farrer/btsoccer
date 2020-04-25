@@ -229,7 +229,7 @@ void Field::createFieldForTestCases(bool createSideShapes)
    littleAreaDelta[0] = 4.325f;
    littleAreaDelta[1] = 3.1525f;
    penaltyAreaDelta[0] = 10.99f;
-   penaltyAreaDelta = 6.31f;
+   penaltyAreaDelta[1] = 6.31f;
    penaltyMark = 6.225f;
    numberOfDisks = 10;
 
