@@ -18,7 +18,7 @@
   along with BtSoccer.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
 #include <goblin/screeninfo.h>
 
 #include "stats.h"

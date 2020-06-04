@@ -19,7 +19,7 @@
 */
 
 #include "options.h"
-#include <kobold/defparser.h>
+#include <kobold/ogre3d/ogredefparser.h>
 #include <kobold/userinfo.h>
 
 using namespace BtSoccer;
@@ -37,11 +37,11 @@ using namespace std;
  ***********************************************************************/
 void Options::load()
 {
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String key, value;
    
    /* Try to load options */
-   if(!def.load(Kobold::UserInfo::getUserHome()+OPTIONS_FILENAME, true))
+   if(!def.load(Kobold::UserInfo::getUserHome()+OPTIONS_FILENAME, true, false))
    {
       /* No options saved yet. */
       return;

@@ -24,8 +24,8 @@
 #include "../engine/team.h"
 
 #include <kobold/userinfo.h>
-#include <kobold/defparser.h>
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/ogredefparser.h>
+#include <kobold/ogre3d/i18n.h>
 #include <OGRE/OgreLogManager.h>
 
 #include <ctime>
@@ -156,12 +156,12 @@ GuiSaves::~GuiSaves()
  ***********************************************************************/
 void GuiSaves::loadCurrentSlotFiles()
 {
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String key, value;
    int slotNumber=0;
 
    /* Try to load the save slots */
-   if(!def.load(Kobold::UserInfo::getSaveDirectory()+curListFile, true))
+   if(!def.load(Kobold::UserInfo::getSaveDirectory()+curListFile, true, false))
    {
       /* Couldn't load save list. Thus all slots are empty! */
       return;

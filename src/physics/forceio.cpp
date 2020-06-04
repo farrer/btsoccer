@@ -22,7 +22,7 @@
 #include "forceio.h"
 
 #include <OGRE/OgreMath.h>
-#include <OGRE/OgreVector2.h>
+#include <OGRE/Ogre.h>
 
 using namespace BtSoccer;
 

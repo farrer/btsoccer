@@ -1,7 +1,7 @@
 
 #include "guioptions.h"
 #include "../engine/options.h"
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
 
 namespace BtSoccer
 {

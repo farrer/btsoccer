@@ -29,6 +29,7 @@
 
 #include <OGRE/OgreLogManager.h>
 #include <OGRE/OgreLog.h>
+#include <kobold/ogre3d/ogredefparser.h>
 
 #include <iostream>
 using namespace std;
@@ -191,8 +192,8 @@ void DistTable::preCalculateValues()
  ***********************************************************************/
 void DistTable::loadFromDisk()
 {
-   Kobold::DefParser def;
-   if(!def.load("distTable.xut"))
+   Kobold::OgreDefParser def;
+   if(!def.load("distTable.xut", false))
    {
       Ogre::LogManager::getSingleton().getDefaultLog()->logMessage(
             "Couldn't load distances file!", Ogre::LML_CRITICAL);

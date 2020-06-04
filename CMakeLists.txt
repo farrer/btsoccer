@@ -96,7 +96,7 @@ add_executable(btsoccer WIN32 ${BTSOCCER_SOURCES} ${BTSOCCER_HEADERS} )
 target_link_libraries(btsoccer btsoccerlib 
    ${GOBLIN_LIBRARY}
    ${KOSOUND_LIBRARY}
-   ${KOBOLD_LIBRARY}
+   ${KOBOLD_LIBRARIES}
    ${OGRE_LIBRARIES} 
    ${OGRE_Overlay_LIBRARIES} 
    ${OGRE_RTShaderSystem_LIBRARIES}
@@ -112,7 +112,7 @@ add_executable(run_btsoccer_tests WIN32 ${BTSOCCER_TEST} )
 target_link_libraries(run_btsoccer_tests btsoccerlib
    ${GOBLIN_LIBRARY}
    ${KOSOUND_LIBRARY}
-   ${KOBOLD_LIBRARY}
+   ${KOBOLD_LIBRARIES}
    ${OGRE_LIBRARIES} 
    ${OGRE_Overlay_LIBRARIES} 
    ${OGRE_RTShaderSystem_LIBRARIES}

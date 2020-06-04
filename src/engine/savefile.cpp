@@ -28,6 +28,7 @@
 #include "core.h"
 
 #include <goblin/camera.h>
+#include <kobold/ogre3d/ogredefparser.h>
 
 #include "../gui/guiscore.h"
 #include "../gui/guimessage.h"
@@ -239,7 +240,7 @@ bool SaveFile::load(Ogre::String fileName, BtSoccer::Core* core,
 {
    int iaux=0;
    float faux=0.0f;
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String key, value;
    Ball* ball;
    int curTeam=-1;
@@ -253,7 +254,7 @@ bool SaveFile::load(Ogre::String fileName, BtSoccer::Core* core,
    ball = core->getBall();
  
    /* Try to load the definitions */
-   if(!def.load(fileName, true))
+   if(!def.load(fileName, true, false))
    {
       GuiMessage::set("Couldn't Load!");
       return(false);

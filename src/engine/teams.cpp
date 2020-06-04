@@ -19,8 +19,8 @@
 */
 
 #include "teams.h"
-#include <kobold/defparser.h>
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/ogredefparser.h>
+#include <kobold/ogre3d/i18n.h>
 
 using namespace BtSoccer;
 
@@ -72,13 +72,16 @@ bool Region::sortedInsert(TeamInfo* t)
 void Regions::load()
 {
    Ogre::String fileName="";
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String key, value;
    int curRegion=-1;
    
    totalTeams = 0;
    totalRegions=0;
-   def.load("teams.lst");
+   if(!def.load("teams.lst", false))
+   {
+      return;
+   }
    while(def.getNextTuple(key, value))
    {
       if(key == "totalRegions")

@@ -24,7 +24,7 @@ using namespace BtSoccer;
 
 #include <OGRE/OgreManualObject.h>
 #include <OGRE/OgreSceneNode.h>
-#include <kobold/defparser.h>
+#include <kobold/ogre3d/ogredefparser.h>
 #include <goblin/camera.h>
 
 /*********************************************************************
@@ -61,12 +61,12 @@ Field::~Field()
 void Field::loadField(Ogre::String fileName,
             Ogre::SceneManager* ogreSceneManager)
 {
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String value, key;
    Ogre::Entity* fieldModel = NULL;
    float x=0.0f,y=0.0f,z=0.0f;
    
-   if(!def.load(fileName))
+   if(!def.load(fileName, false))
    {
       return;
    }

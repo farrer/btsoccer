@@ -20,7 +20,7 @@
 
 #include "guipause.h"
 #include "../soundfiles.h"
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
 
 #define PAUSE_BUTTON_Y   120
 

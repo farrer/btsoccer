@@ -29,7 +29,8 @@
 #include "../ai/decourtai.h"
 
 #include <OGRE/OgreLogManager.h>
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
+#include <kobold/ogre3d/ogredefparser.h>
 #include <algorithm>
 
 using namespace BtSoccer;
@@ -105,7 +106,7 @@ void Team::load(Ogre::String fileName, Ogre::SceneManager* ogreSceneManager,
            Field* f, Ogre::String oponentPredominantColor)
 {
    int i;
-   Kobold::DefParser def;
+   Kobold::OgreDefParser def;
    Ogre::String key, value;
    Ogre::StringStream ss;
 
@@ -125,7 +126,7 @@ void Team::load(Ogre::String fileName, Ogre::SceneManager* ogreSceneManager,
    lastActiveDisk = NULL;
 
    /* Let's load team definition */
-   if(!def.load(fileName))
+   if(!def.load(fileName, false))
    {
       Ogre::LogManager::getSingleton().stream(Ogre::LML_CRITICAL)
           << "Couldn't load team: '" << fileName << "'";

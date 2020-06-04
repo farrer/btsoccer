@@ -22,7 +22,7 @@
 #include "guisocket.h"
 #include "guimessage.h"
 #include "../soundfiles.h"
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
 #include <kobold/userinfo.h>
 
 using namespace BtSoccer;

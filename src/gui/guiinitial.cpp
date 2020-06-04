@@ -19,8 +19,7 @@
 */
 
 #include "guiinitial.h"
-#include <kobold/defparser.h>
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
 
 using namespace BtSoccer;
 

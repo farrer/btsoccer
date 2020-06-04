@@ -30,6 +30,7 @@
 #include "../engine/goalkeeper.h"
 #include "../btsoccer.h"
 #include <kosound/sound.h>
+#include <kobold/ogre3d/ogrefilereader.h>
 
 using namespace BtSoccer;
 
@@ -228,7 +229,8 @@ void BulletLink::tickCallBack()
                      Kosound::Sound::addSoundEffect(
                            ptA.getX() * BULLET_TO_OGRE_FACTOR, 0, 
                            ptA.getZ() * BULLET_TO_OGRE_FACTOR,
-                           SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_COLLISION);
+                           SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_COLLISION,
+                           new Kobold::OgreFileReader());
                      /* Queue message, if online game */
                      if(onlineGame)
                      {
@@ -267,7 +269,8 @@ void BulletLink::tickCallBack()
                      Kosound::Sound::addSoundEffect(
                                 ptA.getX() * BULLET_TO_OGRE_FACTOR, 0, 
                                 ptA.getZ() * BULLET_TO_OGRE_FACTOR,
-                                SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_COLLISION);
+                                SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_COLLISION,
+                                new Kobold::OgreFileReader());
                      /* Queue message, if online game */
                      if(onlineGame)
                      {

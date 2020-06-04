@@ -21,9 +21,7 @@
 #ifndef _btsoccer_protocol_h
 #define _btsoccer_protocol_h
 
-#include <OGRE/OgreString.h>
-#include <OGRE/OgreVector3.h>
-#include <OGRE/OgreQuaternion.h>
+#include <OGRE/Ogre.h>
 #include <pthread.h>
 #include <kobold/timer.h>
 

@@ -38,7 +38,8 @@
 
 #include <kosound/sound.h>
 #include <kobold/userinfo.h>
-#include <kobold/i18n.h>
+#include <kobold/ogre3d/i18n.h>
+#include <kobold/ogre3d/ogrefilereader.h>
 #include <kobold/timer.h>
 
 #include <goblin/camera.h>
@@ -1374,7 +1375,8 @@ void Core::doOnlineOnGameActions()
             
             /* Play a collision sound */
             Kosound::Sound::addSoundEffect(msg.position.x,
-                  msg.position.y, msg.position.z, SOUND_NO_LOOP, soundFile);
+                  msg.position.y, msg.position.z, SOUND_NO_LOOP, soundFile,
+                  new Kobold::OgreFileReader());
          }
          break;
          case MESSAGE_PAUSE:
@@ -1956,7 +1958,8 @@ bool Core::doTheShoot()
          /* init a contact sound */
          Ogre::Vector3 playerPos = selectedPlayer->getPosition();
          Kosound::Sound::addSoundEffect(playerPos.x, 0, playerPos.z,
-               SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_SHOOT);
+               SOUND_NO_LOOP, BTSOCCER_SOUND_DISK_SHOOT, 
+               new Kobold::OgreFileReader());
          if(onlineGame)
          {
             protocol.queueSoundEffect(SOUND_TYPE_DISK_ACT, playerPos);
@@ -2112,7 +2115,8 @@ void Core::verifyRulesResult(bool stateAlreadySet)
       case Rules::STATE_MIDDLE:
       {
          /* A goal happened, so call the goal sound effect */
-         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_GOAL);
+         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_GOAL,
+               new Kobold::OgreFileReader());
          if(!stateAlreadySet)
          {
             /* and reset the teams and put ball at middle */
@@ -2141,7 +2145,8 @@ void Core::verifyRulesResult(bool stateAlreadySet)
          }
          
          /* And the referee horn! */
-         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_SIFF);
+         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_SIFF,
+               new Kobold::OgreFileReader());
       }
       break;
 
@@ -2160,7 +2165,8 @@ void Core::verifyRulesResult(bool stateAlreadySet)
       case Rules::STATE_THROW_IN:
       {
          /* the referee horn! */
-         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_SIFF);
+         Kosound::Sound::addSoundEffect(SOUND_NO_LOOP, BTSOCCER_SOUND_SIFF,
+               new Kobold::OgreFileReader());
          
          if(!stateAlreadySet)
          {
